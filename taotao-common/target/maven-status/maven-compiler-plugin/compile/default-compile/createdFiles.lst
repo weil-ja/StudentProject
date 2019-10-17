@@ -1,0 +1,16 @@
+com\taotao\common\bean\PicUploadResult.class
+com\taotao\common\service\RedisService.class
+com\taotao\common\spring\exetend\converter\json\CallbackMappingJackson2HttpMessageConverter.class
+com\taotao\common\service\RedisService$3.class
+com\taotao\common\service\ApiService.class
+com\taotao\common\bean\ItemCatResult.class
+com\taotao\common\bean\EasyUIResult.class
+com\taotao\common\service\RedisService$2.class
+com\taotao\common\httpclient\HttpResult.class
+com\taotao\common\httpclient\IdleConnectionEvictor.class
+com\taotao\common\bean\ItemCatData.class
+com\taotao\common\service\RedisService$1.class
+com\taotao\common\service\Function.class
+com\taotao\common\service\RedisService$4.class
+com\taotao\common\utils\CookieUtils.class
+com\taotao\common\service\RedisService$5.class

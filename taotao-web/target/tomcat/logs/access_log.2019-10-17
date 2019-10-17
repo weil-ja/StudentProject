@@ -1,0 +1,8 @@
+127.0.0.1 - - [17/Oct/2019:00:25:50 +0800] "GET /order/45.html HTTP/1.0" 200 21391 http-bio-8082-exec-1 276440
+127.0.0.1 - - [17/Oct/2019:00:28:43 +0800] "GET /order/45.html HTTP/1.0" 200 21391 http-bio-8082-exec-2 34684
+127.0.0.1 - - [17/Oct/2019:00:32:59 +0800] "GET /order/45.html HTTP/1.0" 200 21391 http-bio-8082-exec-1 440
+127.0.0.1 - - [17/Oct/2019:00:33:23 +0800] "GET /order/45.html HTTP/1.0" 200 21391 http-bio-8082-exec-2 27
+127.0.0.1 - - [17/Oct/2019:13:48:14 +0800] "GET /item/45.html HTTP/1.0" 200 36325 http-bio-8082-exec-1 3760
+127.0.0.1 - - [17/Oct/2019:13:48:14 +0800] "GET /js/taotao.js HTTP/1.0" 304 - http-bio-8082-exec-2 38
+127.0.0.1 - - [17/Oct/2019:13:48:21 +0800] "GET /item/45.html HTTP/1.0" 200 36325 http-bio-8082-exec-3 56
+127.0.0.1 - - [17/Oct/2019:13:49:51 +0800] "GET /item/562379.html HTTP/1.0" 200 45373 http-bio-8082-exec-4 74

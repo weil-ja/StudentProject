@@ -1,0 +1,4 @@
+com\taotao\sso\service\UserService.class
+com\taotao\sso\mapper\UserMapper.class
+com\taotao\sso\pojo\User.class
+com\taotao\sso\controller\UserController.class

@@ -19,7 +19,7 @@ public class SearchController {
         mv.addObject("query",keyWords);
 //        搜索结果数据
         mv.addObject("itemList",null);
-//        页数
+//        回显页数
         mv.addObject("page",page);
         mv.addObject("pages",null);
 

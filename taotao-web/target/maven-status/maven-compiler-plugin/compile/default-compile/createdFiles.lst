@@ -1,0 +1,15 @@
+com\taotao\web\controller\ItemController.class
+com\taotao\web\bean\Order.class
+com\taotao\web\service\ItemService.class
+com\taotao\web\bean\OrderShipping.class
+com\taotao\web\service\IndexService.class
+com\taotao\web\Interceptors\UserLoginHandlerInterceptors.class
+com\taotao\web\controller\ItemCacheController.class
+com\taotao\web\bean\OrderItem.class
+com\taotao\web\service\OrderService.class
+com\taotao\web\bean\Item.class
+com\taotao\web\service\UserService.class
+com\taotao\web\bean\User.class
+com\taotao\web\controller\OrderController.class
+com\taotao\web\controller\IndexContriller.class
+com\taotao\web\threadlocal\UserThreadLocal.class
